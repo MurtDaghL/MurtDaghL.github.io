@@ -1,13 +1,12 @@
-from flask import Flask 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-app = Flask(__name__)  
+<h1Prototype</h1>
+<p>Work in progress, come back and maybe we'll do grand work together.</p>
 
-@app.route('/')
-
-def home():
-
-    return "Site in project" 
-
-if __name__ == '__main__':
-
-    app.run(debug=True)
+</body>
+</html>
