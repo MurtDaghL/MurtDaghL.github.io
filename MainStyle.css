@@ -1,6 +1,6 @@
-body{font-family: Georgia; text-shadow: 3px 3px 5px rgba(92, 91, 91, 0.719); letter-spacing:-0.06em; width:85%; margin: auto; background:black url(sirius.jpg) fixed}
+body{font-family: Georgia; text-shadow: 3px 3px 5px rgba(92, 91, 91, 0.719); letter-spacing:-0.06em; width:90%; margin: auto; background:black url(sirius.jpg) fixed}
 header{padding:50px; ; color:white; font-size: 200%; border: 15px dashed black; background:rgb(9, 0, 94) url(MilkyWay.jpeg); margin: auto; }
 header h1{text-decoration: underline overline}
-section{;background-image:url(fullsky.jpg)}
+section{background-image:url(fullsky.jpg); background-attachment: fixed }
 #Etape1{background-color:rgba(25, 0, 255, 0.192); color:white; padding:50px;font-size: 150%;border: 10px solid rgb(202, 207, 121)}
-#MachineLearning{background-color:rgba(255, 255, 255, 0.247);color:rgb(0, 29, 43); padding:50px;border: 10px solid rgb(202, 207, 121);border-top:none}
+#MachineLearning{background-color:rgba(255, 255, 255, 0.247);color:rgb(0, 29, 43); padding:50px;border: 10px dashed rgb(202, 207, 121);border-top:none }
